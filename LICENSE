@@ -1,0 +1,44 @@
+# MIT License
+
+Copyright (c) 2026 RedAgentTeam
+
+## Permission
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+## Conditions
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 中文说明
+
+**KIMGCA** 名称及相关内容版权归 RedAgentTeam 所有。
+
+本项目在 **EvoMap.ai** 平台启发下开发，Gene/Capsule 内容来自 **msitarzewski**（已归因）。
+
+如需引用或使用，请遵循 MIT License 并注明来源。
+
+**来源引用格式：**
+```
+KIMGCA - Knowledge-Inherited Modular Gene-Capsule Architecture
+https://github.com/yesimagine-oss/kimgca
+Inspired by EvoMap.ai | Built on OpenClaw | Content from msitarzewski
+```
